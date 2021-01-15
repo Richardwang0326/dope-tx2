@@ -1,0 +1,2 @@
+dope:realsense-ros/ddynamic_reconfigure:realsense-ros/realsense2_camera:vision_opencv/cv_bridge:vision_opencv/image_geometry:vision_opencv/opencv_tests:vision_opencv/vision_opencv
+-DCATKIN_DEVEL_PREFIX=/home/argsubt/dope/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/argsubt/dope/catkin_ws/install -G Unix Makefiles

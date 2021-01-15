@@ -1,0 +1,8 @@
+prefix=/home/argsubt/dope/catkin_ws/devel
+
+Name: ddynamic_reconfigure
+Description: Description of ddynamic_reconfigure
+Version: 0.0.6
+Cflags: -I/home/argsubt/dope/catkin_ws/devel/include -I/home/argsubt/dope/catkin_ws/src/realsense-ros/ddynamic_reconfigure/include
+Libs: -L${prefix}/lib -lddynamic_reconfigure
+Requires: dynamic_reconfigure message_runtime std_msgs

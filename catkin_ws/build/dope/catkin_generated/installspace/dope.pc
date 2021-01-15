@@ -1,0 +1,8 @@
+prefix=/home/argsubt/dope/catkin_ws/install
+
+Name: dope
+Description: Description of dope
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs sensor_msgs std_msgs vision_msgs visualization_msgs

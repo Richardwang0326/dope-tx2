@@ -1,0 +1,8 @@
+prefix=/home/argsubt/dope/catkin_ws/install
+
+Name: ddynamic_reconfigure
+Description: Description of ddynamic_reconfigure
+Version: 0.0.6
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lddynamic_reconfigure
+Requires: dynamic_reconfigure message_runtime std_msgs
